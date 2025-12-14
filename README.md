@@ -45,7 +45,13 @@ For each model, the following metrics were generated:
 - F1-Score
 - Classification Report
 
----
+
+
+## Copyright
+© 2025 Suzal Naudiyal. All rights reserved.
+
+This project is protected under the MIT License.
+
 
 
 The notebook includes a function:
